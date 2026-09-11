@@ -1,0 +1,1 @@
+{"name":"lld-coach-backend","type":"module","scripts":{"dev":"node --watch src/server.js","start":"node src/server.js","test":"node --test"},"dependencies":{"cors":"^2.8.5","express":"^5.1.0","better-sqlite3":"^11.10.0","dotenv":"^16.6.1"}}
